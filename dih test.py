@@ -1,0 +1,1 @@
+houseno, apartName, city, state, pin = address
